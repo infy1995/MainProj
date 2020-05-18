@@ -1,0 +1,9 @@
+[submodule "SubProj1"]
+	path = SubProj1
+	url = https://github.com/infy1995/SubProj1
+[submodule "SubProj2"]
+	path = SubProj2
+	url = https://github.com/infy1995/SubProj2
+[submodule "SubProj3"]
+	path = SubProj3
+	url = https://github.com/infy1995/SubProj3
